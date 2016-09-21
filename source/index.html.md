@@ -22,6 +22,27 @@ Welcome to the Adthena API! You can use our API to access Adthena API endpoints,
 
 Use the "json", "xml" and "csv" tabs on the right to show example response data in those formats.
 
+# FAQ
+
+### How do I access the API?
+Accessing the API requires you to have the unique authentication key for each Adthena account. Speak to you Adthena contact for further information.
+
+### Is there a way to test my credentials?
+One simple way is to use a free tool such as onlinecurl.com
+
+1. Enter your URL beginning https://
+2. Click Add Option, select Header, enter adthena-api-key:my-api-key
+3. Click Start Your Curl
+
+### At what time can I download yesterday’s data?
+Yesterday’s data is available by 9am local time for that country
+
+### How can I better understand the data I am downloading or filters I am applying?
+Try our Knowledge Base, which has descriptions and screengrabs: https://adthena.zendesk.com/hc/en-us 
+
+### I discovered an issue what shall I do?
+Email the details to <a href='mailto:support@adthena.com'>support@adthena.com</a> and we will investigate
+
 # Authentication
 
 > To authorize, use this code:
